@@ -2,5 +2,14 @@
 name = "rustyparty"
 version = "0.1.0"
 edition = "2024"
+authors = ["Sharlon N. Regales <sharlonregales@gmail.com>"]
+description = """
+  Rewrite it in Rust (RIIR) of copyparty. \
+  Portable file server with accelerated resumable uploads, \
+  deduplication, WebDAV, FTP, zeroconf, media indexer, \
+  video thumbnails, audio transcoding, and write-only folders"""
+readme = "README.md"
+repository = "https://github.com/snregales/rustyparty"
+license = "MIT"
 
 [dependencies]
